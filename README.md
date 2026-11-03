@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/aroylee/aroylee/main/header.png" alt="Roy Lee Girón" width="100%">
+
 # Roy Lee Girón 👋
 
 **AI & Data Engineering Leader** · Head of Technology at ANIA — El Salvador's national AI agency
